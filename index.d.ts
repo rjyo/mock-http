@@ -1,4 +1,4 @@
-declare module 'mock-http' {
+declare module '@rjyo/mock-http' {
 	import { ServerResponse, IncomingMessage } from "http"
 
 	export interface MockResponseData {
