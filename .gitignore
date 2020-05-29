@@ -5,3 +5,5 @@
 *.log
 *.tgz
 x.js
+.vscode
+package-lock.json
